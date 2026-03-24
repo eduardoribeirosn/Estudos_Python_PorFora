@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 1",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.73791139, -23.58434399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 2",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.73669013, -23.5779509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 3",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.71159737, -23.57022424]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 4",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.7048362, -23.5664093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 5",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.7220839, -23.5777568]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 6",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.73791139, -23.58434399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roubo 7",
+        "tipo": "roubo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.73791139, -23.58434399]
+      }
+    }
+  ]
+}

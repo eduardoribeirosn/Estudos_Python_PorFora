@@ -34,5 +34,5 @@ gdf["cor"] = gdf["tipo"].map(cores)
 
 print(gdf)
 
-gdf.plot(column="tipo", legend=True, color=gdf["cor"])
+gdf.plot(column="tipo", legend=True) # , color=gdf["cor"]
 plt.show()

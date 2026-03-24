@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto A",
+        "tipo": "casa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.63, -23.55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ponto B",
+        "tipo": "mercado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.64, -23.56]
+      }
+    }
+  ]
+}
